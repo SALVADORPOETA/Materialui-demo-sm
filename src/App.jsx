@@ -23,7 +23,9 @@ function App() {
               Photo Album
             </Typography>
             <Typography variant="h5" align="center" color="textSecondary" paragraph>
-              Hello everyone. This is a photo album and I'm trying to make this sentence as long as possible so we can see how does it looks like on the screen.
+              Hello everyone! 
+              This is a photo album and I'm trying to practice my skills with 
+              Material UI so I can increase my knowledge about front-end development.
             </Typography>
             <div>
               <Grid container spacing={2} justifyContent="center" pt={4} direction="row">
